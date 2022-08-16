@@ -1,0 +1,27 @@
+body{
+    background-color: lightsteelblue;
+}
+
+input{
+    background-color: aqua;
+    border-color: black;
+    color:black;
+}
+
+#ability{
+    font-size:30px;
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+ }
+
+ #moves{
+    font-size:30px;
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+ }
+
+ #weight{
+    font-size:30px;
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+ }
